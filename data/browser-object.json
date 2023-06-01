@@ -1,0 +1,26 @@
+{
+  "sessionId": "c5e76ca17dd422d1eccf42c55ee89556",
+  "capabilities": {
+    "acceptInsecureCerts": false,
+    "browserName": "chrome",
+    "browserVersion": "114.0.5735.90",
+    "chrome": {
+      "chromedriverVersion": "113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912})",
+      "userDataDir": "/var/folders/1q/_n3s5_k157v4mxbtfg23bb940000gn/T/.com.google.Chrome.fFhhTG"
+    },
+    "goog:chromeOptions": { "debuggerAddress": "localhost:64810" },
+    "networkConnectionEnabled": false,
+    "pageLoadStrategy": "normal",
+    "platformName": "mac os x",
+    "proxy": {},
+    "setWindowRect": true,
+    "strictFileInteractability": false,
+    "timeouts": { "implicit": 0, "pageLoad": 300000, "script": 30000 },
+    "unhandledPromptBehavior": "dismiss and notify",
+    "webauthn:extension:credBlob": true,
+    "webauthn:extension:largeBlob": true,
+    "webauthn:extension:minPinLength": true,
+    "webauthn:extension:prf": true,
+    "webauthn:virtualAuthenticators": true
+  }
+}
